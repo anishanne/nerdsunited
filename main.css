@@ -2,6 +2,9 @@
 	height: 20px;
 	background: orange;
 }
+body{
+  margin: 0px;
+}
 #wrapper{
 	text-align: center;
 }
@@ -22,4 +25,8 @@
 	display: inline-block;
 	max-height: 30rem;
 	max-width: 100% !important;
+}
+#footer{
+	height: 20px;
+	background: orange;
 }
