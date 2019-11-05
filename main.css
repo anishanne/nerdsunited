@@ -1,0 +1,25 @@
+#header{
+	height: 20px;
+	background: orange;
+}
+#wrapper{
+	text-align: center;
+}
+#main{
+	display: inline-block;
+	max-width: 80rem;
+	background: lightgray;
+}
+#logowrap{
+	height: auto;
+	display: block;
+	overflow: hidden;
+	text-align: center;
+	line-height: 0px !important;
+	background: white;
+}
+#logo{
+	display: inline-block;
+	max-height: 30rem;
+	max-width: 100% !important;
+}
